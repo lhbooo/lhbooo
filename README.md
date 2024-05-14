@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Has completed today tasks ?
+#### Has today's tasks been completed ?
 
 - [ ] Today's inquiry
 - [ ] 100 Days CSS Challenge
