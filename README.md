@@ -1,5 +1,3 @@
-### Hi there 👋
-
 #### Has today's tasks been completed ?
 
 - [ ] Today's inquiry
